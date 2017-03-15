@@ -15,7 +15,4 @@ Proceso sin_titulo
 		FinSi
 		ge<- ge+1;
 	FinMientras
-	
-	
-	
-FinProceso
+//finaliza el proyecto
